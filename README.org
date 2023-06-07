@@ -1,0 +1,9 @@
+* trivial-do
+
+Additional dolist style macros for Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/yitzchak/trivial-do.git |
+| commit  | a19f932                                        |
+| systems | trivial-do                                     |
+|---------+------------------------------------------------|
