@@ -7,3 +7,4 @@ Additional dolist style macros for Common Lisp
 | commit  | a19f932                                        |
 | systems | trivial-do                                     |
 |---------+------------------------------------------------|
+ 
